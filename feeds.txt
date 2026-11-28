@@ -1,0 +1,15 @@
+# One RSS/Atom URL per line
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://feeds.bbci.co.uk/news/politics/rss.xml
+http://feeds.bbci.co.uk/news/business/rss.xml
+http://feeds.bbci.co.uk/news/technology/rss.xml
+http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+http://feeds.bbci.co.uk/news/health/rss.xml
+http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+http://feeds.bbci.co.uk/sport/rss.xml
+https://www.theguardian.com/world/rss
+https://www.theguardian.com/environment/rss
+https://www.theguardian.com/football/rss
+https://www.theguardian.com/culture/rss
+https://feeds.npr.org/1001/rss.xml
+https://www.aljazeera.com/xml/rss/all.xml

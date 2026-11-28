@@ -1,6 +1,6 @@
-from data_prep import get_political_accounts
-from data_prep import get_political_posts
-from data_prep import save_posts_to_json
+from bluesky.data_prep import get_political_accounts
+from bluesky.data_prep import get_political_posts
+from bluesky.data_prep import save_posts_to_json
 def main():
     max_account = 3
     keyword_limit = 100
